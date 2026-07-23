@@ -1,4 +1,4 @@
-const TARGET = "https://mickey7207-mickeycam.hf.space";
+const TARGET = "https://mits.ct.ws";
 
 export default {
   async fetch(request) {
